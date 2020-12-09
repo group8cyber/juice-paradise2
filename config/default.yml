@@ -6,7 +6,7 @@ application:
   name: 'OWASP Juice Shop'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
-  theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  theme: bluegrey-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: true
   showGitHubLinks: true
   localBackupEnabled: true
@@ -84,8 +84,8 @@ hackingInstructor:
   avatarImage: JuicyBot_MedicalMask.png
 products:
   -
-    name: 'Apple Juice (1000ml)'
-    price: 1.99
+    name: 'Apple Juice (2000ml)'
+    price: 3.99
     deluxePrice: 0.99
     limitPerUser: 5
     description: 'The all-time classic.'

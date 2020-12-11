@@ -2,7 +2,7 @@ server:
   port: 3000
   basePath: ''
 application:
-  domain: juice-sh.op
+  domain: juice-paradise
   name: 'Juice Paradise'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
